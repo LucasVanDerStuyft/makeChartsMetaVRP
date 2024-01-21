@@ -77,7 +77,7 @@ def add_files_to_set(path, file_paths, enginename):
             file_paths.append(file_path)
 
 
-variant = "MultiDepot"
+variant = "SameAddresses"
 
 add_files_to_set(
     "C:\\Users\\lucas\\Documents\\masterproef2023_2024\\metavrp-toolkit\\cli\\etc\\demoproblems\\analysisResultsJSON\\"+variant+"\\",
